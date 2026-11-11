@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## Links
 Slides: [Slides](AI101_MiniProject_PPT.pdf)
-Video: [Video]([Project_video.mp4](https://drive.google.com/file/d/1svetInsp7IfS6GSD3l8OgmInt5plnuTn/view?usp=sharing))
+Video: [Video](https://drive.google.com/file/d/1svetInsp7IfS6GSD3l8OgmInt5plnuTn/view?usp=sharing)
 
 ## AI Use Disclosure
 - Code Assistance: Used AI for error debugging and exploring model configurations.
