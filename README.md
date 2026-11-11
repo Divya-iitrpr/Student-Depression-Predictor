@@ -32,6 +32,7 @@ Predicts whether the student has depression or not by lifestyle data collected a
 ```
 
 ## Setup
+Tested on Python 3.14
 ```bash
 git clone https://github.com/Divya-iitrpr/Student-Depression-Predictor.git
 cd Student-Depression-Predictor
